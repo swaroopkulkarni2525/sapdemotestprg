@@ -45,11 +45,6 @@
 								<Text id="_IDGenText1" text="{ZIPCode} {City}" />
 							</f:fields>
 						</f:FormElement>
-						<f:FormElement id="_IDGenFormElement3" label="Country">
-							<f:fields>
-								<Text text="{Country}" id="countryText" />
-							</f:fields>
-						</f:FormElement>
 					</f:formElements>
 				</f:FormContainer>
 			</f:formContainers>
